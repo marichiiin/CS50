@@ -2,67 +2,85 @@
 ## Problem Set Solutions
 ### [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)
 
+#### WEEK ZERO : SCRATCH
 - [Problem Set 0: Scratch :Quiz Bee Practice:](https://scratch.mit.edu/projects/832612868)
 
-- [Lab 1: Population Growth](/lab1)
 
-- [Problem Set 1: C](/pset1)
+#### WEEK ONE : C
+- [Lab 1: Population Growth](/Week1/Lab1/population)
+- [Practice Problems](/Week1/Practice_Problems)
+    - [Debug](/Week1/Practice_Problems/Debug)
+    - [Half](/Week1/Practice_Problems/Half)
+    - [Prime](/Week1/Practice_Problems/Prime)
+- [Problem Set 1: C](/Week1/Pset1)
+    - [hello](/Week1/Pset1/Hello)
+    - [mario]
+        - [less](/Week1/Pset1/Mario_Less)
+        - [more](/Week1/Pset1/Mario_More)
+    - [cash](/Week1/Pset1/Cash)
+    - [credit](/Week1/Pset1/Credit)
 
-  - [hello](/pset1/hello)
-  - mario :mushroom:
-    - [less](/pset1/mario/less)
-    - [more](/pset1/mario/more)
-  - [cash](/pset1/cash)
-  - [credit](/pset1/credit)
 
-- [Lab 2: Scrabble](/lab2)
-- [Problem Set 2: Arrays](/pset2)
-  - [readability](/pset2/readability)
-  - [caesar](/pset2/caesar)
-  - [substitution](/pset2/substitution)
+#### WEEK TWO : ARRAYS
+- [Lab 2: Scrabble]()
+- [Problem Set 2: Arrays]()
+    - [readability]()
+    - [caesar]()
+    - [substitution]()
 
-- [Lab 3: Sort](/lab3)
 
-- [Problem Set 3: Algorithms](/pset3)
-  - [plurality](pset3/plurality)
-  - [runoff](pset3/runoff)
-  - [tideman](pset3/tideman)
+#### WEEK THREE : ALGORITHMS
+- [Lab 3: Sort]()
+- [Problem Set 3: Algorithms]()
+    - [plurality]()
+    - [runoff]()
+    - [tideman]()
 
-- [Lab 4: Volume :musical_note:](/lab4)
 
-- [Problem Set 4: Memory](/pset4)
-  - filter :framed_picture:
-    - [less](/pset4/filter/less)
-    - [more](/pset4/filter/more)
-  - [recover](/pset4/recover)
+#### WEEK FOUR : MEMORY
+- [Lab 4: Volume :musical_note:]()
+- [Problem Set 4: Memory]()
+    - filter :framed_picture:
+        - [less]()
+        - [more]()
+  - [recover]()
 
-  [Lab 5: Inheritance](/lab5)
 
-- [Problem Set 5: Data Structures](/pset5)
-  - [speller](/pset5/speller)
+#### WEEK FIVE : DATA STRUCTURES
+- [Lab 5: Inheritance]()
+- [Problem Set 5: Data Structures]()
+    - [speller]()
 
-[Lab 6: World Cup :soccer:](/lab6)
 
-- [Problem Set 6: Python :snake:](/pset6)
-  - [hello](/pset6/hello)
-  - mario
-    - [less](/pset6/mario/less)
-    - [more](/pset6/mario/more)
-  - [cash :moneybag:](/pset6/cash)
-  - [credit :credit_card:](/pset6/credit)
-  - [readability](/pset6/readability/)
-  - [dna](/pset6/dna)
+#### WEEK SIX : PYTHON
+- [Lab 6: World Cup :soccer:]()
+- [Problem Set 6: Python :snake:]()
+    - [hello]()
+    - mario
+        - [less]()
+        - [more]()
+    - [cash :moneybag:]()
+    - [credit :credit_card:]()
+    - [readability]()
+    - [dna]()
 
-- [Lab 7: Songs:notes:](/lab7)
 
-- [Problem Set 7: SQL](/pset7)
-  - [movies :cinema:](pset7/movies)
-  - [fiftyville](pset7/fiftyville)
+#### WEEK SEVEN : SQL
+- [Lab 7: Songs:notes:]()
+- [Problem Set 7: SQL]()
+    - [movies :cinema:]()
+    - [fiftyville]()
 
-- [Lab 8: Trivia](/lab8)
 
-- [Problem Set 8: Homepage](/pset8/homepage)
+#### WEEK EIGHT : HTML, CSS, JAVASCRIPT
+- [Lab 8: Trivia]()
+- [Problem Set 8: Homepage]()
 
-- [Lab 9: Birthdays 🎂](/lab9) 
 
-- [Problem Set 9: Finance :money_mouth_face:](/pset9/finance)
+
+#### WEEK NINE : FLASK
+- [Lab 9: Birthdays 🎂]() 
+- [Problem Set 9: Finance :money_mouth_face:]()
+
+
+#### WEEK TEN : EMOJI
